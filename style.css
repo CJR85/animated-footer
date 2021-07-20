@@ -41,3 +41,15 @@ footer {
   width: 80px;
   margin-bottom: 30px;
 }
+
+.col h3 {
+  width: fit-content;
+  margin-bottom: 40px;
+  position: relative;
+}
+
+.email-id {
+  width: fit-content;
+  border-bottom: 1px solid #ccc;
+  margin: 20px 0px;
+}
